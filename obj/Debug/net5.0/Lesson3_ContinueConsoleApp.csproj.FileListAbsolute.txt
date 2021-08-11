@@ -1,0 +1,16 @@
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\bin\Debug\net5.0\Lesson3_ContinueConsoleApp.exe
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\bin\Debug\net5.0\Lesson3_ContinueConsoleApp.deps.json
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\bin\Debug\net5.0\Lesson3_ContinueConsoleApp.runtimeconfig.json
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\bin\Debug\net5.0\Lesson3_ContinueConsoleApp.runtimeconfig.dev.json
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\bin\Debug\net5.0\Lesson3_ContinueConsoleApp.dll
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\bin\Debug\net5.0\ref\Lesson3_ContinueConsoleApp.dll
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\bin\Debug\net5.0\Lesson3_ContinueConsoleApp.pdb
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\obj\Debug\net5.0\Lesson3_ContinueConsoleApp.csproj.AssemblyReference.cache
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\obj\Debug\net5.0\Lesson3_ContinueConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\obj\Debug\net5.0\Lesson3_ContinueConsoleApp.AssemblyInfoInputs.cache
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\obj\Debug\net5.0\Lesson3_ContinueConsoleApp.AssemblyInfo.cs
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\obj\Debug\net5.0\Lesson3_ContinueConsoleApp.csproj.CoreCompileInputs.cache
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\obj\Debug\net5.0\Lesson3_ContinueConsoleApp.dll
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\obj\Debug\net5.0\ref\Lesson3_ContinueConsoleApp.dll
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\obj\Debug\net5.0\Lesson3_ContinueConsoleApp.pdb
+D:\alif C#\3rd Lesson\Lesson3HomeWorkContinue\Lesson3_ContinueConsoleApp\obj\Debug\net5.0\Lesson3_ContinueConsoleApp.genruntimeconfig.cache
